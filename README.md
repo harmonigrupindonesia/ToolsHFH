@@ -28,7 +28,7 @@
 
 [![](https://img.shields.io/badge/Link-Maps-green.svg)](https://t.me/officialharmonifarmhouse) [![](https://img.shields.io/badge/Link-Telegram-blue.svg)](https://t.me/officialharmonifarmhouse) [![](https://img.shields.io/badge/Link-Telegram[mentahan]-blue.svg)](https://t.me/mentahanFVhfh)
 
-## Priview
+## Preview
 
 - **Siteplan Global**
   ![](<img/SiteplanHFH(GLOBAL).jpg>)
