@@ -6,7 +6,7 @@
 
 [![](https://img.shields.io/badge/Global-Download-green.svg)](https://drive.google.com/file/d/1lRxolicYzltCWSEEm5k22YvFA4IUprUH/view?usp=sharing)
 
-[![](https://img.shields.io/badge/Tahap1-Download-blue.svg)](https://drive.google.com/file/d/1BHC6zTRePm0XYG1E3UVxPz5bP9_8EHZ4/view?usp=sharing) [![](https://img.shields.io/badge/Tahap2-Download-blue.svg)](https://drive.google.com/file/d/1Ilxm9m4Gwc6mun_t4goJlj_xkh0OrDOB/view?usp=sharing)
+[![](https://img.shields.io/badge/Tahap1-Download-blue.svg)](https://drive.google.com/file/d/1BHC6zTRePm0XYG1E3UVxPz5bP9_8EHZ4/view?usp=sharing) [![](https://img.shields.io/badge/Tahap2-Download-blue.svg)](https://drive.usercontent.google.com/u/0/uc?id=1Ilxm9m4Gwc6mun_t4goJlj_xkh0OrDOB&export=download)
 
 [![](https://img.shields.io/badge/Tahap3-Download-blue.svg)](https://drive.google.com/file/d/1ljksEUi5Z6P1TI6XeFwzBvCd3s1aMbmQ/view?usp=sharing) [![](https://img.shields.io/badge/Tahap4-Download-blue.svg)](https://drive.google.com/file/d/1COlj351CqV3cbFbxSQlsE4qGG0X0b9bn/view?usp=sharing)
 
