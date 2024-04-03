@@ -26,7 +26,7 @@
 
 [![](https://img.shields.io/badge/E|Brocure-Download-purple.svg)](https://drive.usercontent.google.com/u/0/uc?id=1ol9JeV7gZ0T7BLahjwIxeWbfATc8RUzh&export=download)
 
-[![](https://img.shields.io/badge/Link-Maps-green.svg)](https://t.me/officialharmonifarmhouse) [![](https://img.shields.io/badge/Link-Telegram-blue.svg)](https://t.me/officialharmonifarmhouse) [![](https://img.shields.io/badge/Link-Telegram[mentahan]-blue.svg)](https://t.me/mentahanFVhfh)
+[![](https://img.shields.io/badge/Link-Maps-green.svg)](https://maps.app.goo.gl/gYSzWC1Q8YdeXxD29) [![](https://img.shields.io/badge/Link-Telegram-blue.svg)](https://t.me/officialharmonifarmhouse) [![](https://img.shields.io/badge/Link-Telegram[mentahan]-blue.svg)](https://t.me/mentahanFVhfh)
 
 ## Preview
 
